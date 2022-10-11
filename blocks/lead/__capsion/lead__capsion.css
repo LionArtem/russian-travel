@@ -1,0 +1,21 @@
+.lead__capsion {
+  font-family: Inter;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 14px;
+  letter-spacing: 1.5px;
+  text-align: left;
+  margin: 0px 0px 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .lead__capsion {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .lead__capsion {
+    margin-left: 16px;
+  }
+}
