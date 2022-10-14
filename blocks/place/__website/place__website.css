@@ -10,6 +10,13 @@
   }
 }
 
+@media screen and (max-width: 640px) {
+  .place__website {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place__website {
     margin-left: 16px;

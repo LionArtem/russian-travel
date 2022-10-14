@@ -1,9 +1,0 @@
-.into__lists {
-  padding: 0;
-}
-
-@media screen and (max-width: 320px) {
-  .into__lists {
-    margin: 0px 16px;
-  }
-}
