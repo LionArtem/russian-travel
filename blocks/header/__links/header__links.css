@@ -1,4 +1,6 @@
 .header__links {
+  display: flex;
+  flex-direction: row;
   font-family: 'Inter', Arial, sans-serif;
   font-size: 24px;
   font-weight: 400;
